@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~ #change the working home directory to the user's home directory
+echo "Current working directory to verify the change: $(pwd)"
+
+
